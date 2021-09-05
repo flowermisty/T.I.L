@@ -1,4 +1,4 @@
-# [JAVA공부]1일차 - JAVA의 시작!! Hello.java
+# [JAVA공부] JAVA의 시작!! Hello.java
 
 ```JAVA
 public class HelloJava {

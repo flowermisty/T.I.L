@@ -8,7 +8,7 @@
 ***
 ## 4. Spring
 ***
-## 5. Djangp
+## 5. Django
 ***
 ## 6. SQL(DataBase)
 ***

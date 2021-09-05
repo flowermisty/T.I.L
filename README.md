@@ -2,7 +2,7 @@
 ## 1. Algoritm
 ***
 ## 2. JAVA
-  * [Hello, World!](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA)
+  * [Hello, World!](https://github.com/flowermisty/T.I.L/blob/master/2.JAVA/HelloWorld.md)
 ***
 ## 3. Python
 ***

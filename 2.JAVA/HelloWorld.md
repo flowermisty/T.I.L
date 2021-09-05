@@ -1,6 +1,6 @@
-# [JAVA°øºÎ]1ÀÏÂ÷ - JAVAÀÇ ½ÃÀÛ!! Hello.java
+# [JAVAê³µë¶€]1ì¼ì°¨ - JAVAì˜ ì‹œìž‘!! Hello.java
 
-```
+```JAVA
 public class HelloJava {
 
  
@@ -9,23 +9,23 @@ public class HelloJava {
 
   
 
-  //¼¼¹ÌÄÝ·ÐÀº ÇÑ¹®ÀåÀÌ ³¡³¯¶§ ÂïÀ½
+  //ì„¸ë¯¸ì½œë¡ ì€ í•œë¬¸ìž¥ì´ ëë‚ ë•Œ ì°ìŒ
 
-  //¿£ÅÍ¿Í °ø¹éÀº ÀÇ¹Ì¾øÀ½
+  //ì—”í„°ì™€ ê³µë°±ì€ ì˜ë¯¸ì—†ìŒ
 
-  //´ë¼Ò¹®ÀÚ¸¦ ±¸ºÐÇÑ´Ù.
-
-  
-
-  //±âº»ÀÚ·áÇüÀ» ÇÁ¸®¹ÌÆ¼ºê Å¸ÀÔ
-
-  //ÂüÁ¶ÇüÀº ·¹ÆÛ·±½º Å¸ÀÔÀÌ¶ó°í ÇÑ´Ù.
+  //ëŒ€ì†Œë¬¸ìžë¥¼ êµ¬ë¶„í•œë‹¤.
 
   
 
-  System.out.println("¾È³çÇÏ¼¼¿ä");
+  //ê¸°ë³¸ìžë£Œí˜•ì„ í”„ë¦¬ë¯¸í‹°ë¸Œ íƒ€ìž…
 
-  System.out.println("ÀßÂïÈ÷³Ä");
+  //ì°¸ì¡°í˜•ì€ ë ˆí¼ëŸ°ìŠ¤ íƒ€ìž…ì´ë¼ê³  í•œë‹¤.
+
+  
+
+  System.out.println("ì•ˆë…•í•˜ì„¸ìš”");
+
+  System.out.println("ìž˜ì°ížˆëƒ");
 
   
 

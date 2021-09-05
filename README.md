@@ -1,4 +1,4 @@
-## Today I Leaned.  공부한 내용을 카테고리 별로 구분하여, 자유롭게 정리 합니다.
+## Today I Leaned: &nbsp;&nbsp;  공부한 내용을 카테고리 별로 구분하여, 자유롭게 정리 합니다.
 ## 1. Algoritm
 ***
 ## 2. JAVA

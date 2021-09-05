@@ -2,6 +2,7 @@
 ## 1. Algoritm
 ***
 ## 2. JAVA
+  * Hello, World!
 ***
 ## 3. Python
 ***

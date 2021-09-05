@@ -1,16 +1,16 @@
 # T.I.L : 공부한 내용을 카테고리 별로 구분하여, 정리 합니다.<br/>
-## 1.Algoritm
+## 1. Algoritm
 ***
-## 2.JAVA
+## 2. JAVA
 ***
-## 3.Python
+## 3. Python
 ***
-## 4.Spring
+## 4. Spring
 ***
-## 5.Djangp
+## 5. Djangp
 ***
-## 6.SQL(DataBase)
+## 6. SQL(DataBase)
 ***
-## 7.BootStrap
+## 7. BootStrap
 ***
 

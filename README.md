@@ -1,7 +1,8 @@
-# T.I.L : 공부한 내용을 카테고리 별로 구분하여, 정리 합니다.<br/>
+## Today I Leaned&nbsp; : &nbsp;공부한 내용을 카테고리 별로 구분하여, 자유롭게 정리 합니다.
 ## 1. Algoritm
 ***
 ## 2. JAVA
+<<<<<<< HEAD
   * [1.Hello, World!](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/1.HelloWorld.md)
   * [2.변수의 선언]	(https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
   * [3.형변환]	(https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
@@ -23,12 +24,15 @@
   * [19.로또번호생성기 Upgrade](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
   * [20.배열선언방법](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
   * [21.난수값정렬](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
+=======
+  * [Hello, World!](https://github.com/flowermisty/T.I.L/blob/master/2.JAVA/HelloWorld.md)
+>>>>>>> ca9437c7163531648c3af1bbd8e3a665ff22adc8
 ***
 ## 3. Python
 ***
 ## 4. Spring
 ***
-## 5. Djangp
+## 5. Django
 ***
 ## 6. SQL(DataBase)
 ***

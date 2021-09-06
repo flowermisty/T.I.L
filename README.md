@@ -1,5 +1,6 @@
 # TIL (Today I learned)
 * [이어가는 Story, 그리고 TIL](https://flowermisty.tistory.com/)
+![tistory](./img/tistory.gif)
 ## <br/><br/>  목표     
 >**배운것을 정제해서 기록한다.**  
 >**미흡한 부분을 보완한다.**  

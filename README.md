@@ -2,7 +2,6 @@
 ## 1. Algoritm
 ***
 ## 2. JAVA
-<<<<<<< HEAD
   * [1.Hello, World!](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/1.HelloWorld.md)
   * [2.변수의 선언]	(https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
   * [3.형변환]	(https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
@@ -24,9 +23,6 @@
   * [19.로또번호생성기 Upgrade](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
   * [20.배열선언방법](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
   * [21.난수값정렬](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
-=======
-  * [Hello, World!](https://github.com/flowermisty/T.I.L/blob/master/2.JAVA/HelloWorld.md)
->>>>>>> ca9437c7163531648c3af1bbd8e3a665ff22adc8
 ***
 ## 3. Python
 ***

@@ -3,8 +3,8 @@
 ***
 ## 2. JAVA
   * [1.Hello, World!](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/1.HelloWorld.md)
-  * [2.변수의 선언]	(https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
-  * [3.형변환]	(https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
+  * [2.변수의 선언](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
+  * [3.형변환](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
   * [4.Scanner 클래스를 이용하여 값을 입력받기](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
   * [5.Scanner 클래스 2번째](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
   * [6.조건문 if](https://github.com/flowermisty/T.I.L/tree/master/2.JAVA/)
